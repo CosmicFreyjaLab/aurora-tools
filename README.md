@@ -1,2 +1,2 @@
 # aurora-tools
-Some useful tools for Aurora AI
+Some useful tools for Freyja AI
